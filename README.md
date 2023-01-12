@@ -17,7 +17,7 @@ Next analysis is to find the total amount of fare charged for each city type. Th
 Using these data, average fare per ride and average fare per driver can be calculated. These results are shown in the following table:
 
 
-![Summary](analysis/summary data.png)
+![Summary](analysis/summary data.PNG)
 
 The next step is to get deeper in the data and find the total fare by city type for specific date range, Jan 2019 to March 2019 and plot these information in weekly format. To show this data, first we need to confine our table to these specific dates then piviot our table to get information for each city type. Last step is to resample it using weekly format and plot it. This plot is shown in the following figure:
 ![Summary](analysis/PyBer_fare_summary.png)
