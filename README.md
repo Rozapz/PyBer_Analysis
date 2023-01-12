@@ -20,8 +20,12 @@ Using these data, average fare per ride and average fare per driver can be calcu
 ![Summary](analysis/summary_data.PNG)
 
 The next step is to get deeper in the data and find the total fare by city type for specific date range, Jan 2019 to March 2019 and plot these information in weekly format. To show this data, first we need to confine our table to these specific dates then piviot our table to get information for each city type. Last step is to resample it using weekly format and plot it. This plot is shown in the following figure:
+
 ![Summary](analysis/PyBer_fare_summary.png)
 
 ## Summary:
+This was very in depth analysis for the data provided for each city type. These are the information that can be extracted from the above graphs
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+  - Urban cities uses the app the most and there are more drivers in urban cities. As a result, the majority of PyBer's revenue occurs in urban cities.
+  - On the other hand, the costs for using PyBer is greater among riders in rural cities than urban cities. This could discourage potential riders from using PyBer given the high average fare per ride.
+  - Drivers in rural cities are earning more than drivers in urban cities. This could discourage potential drivers from working with PyBer given the low average fare per driver.
