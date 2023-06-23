@@ -24,8 +24,8 @@ The next step is to get deeper into the data and find the total fare by city typ
 ![Summary](analysis/PyBer_fare_summary.png)
 
 ## Summary:
-This was very in depth analysis for the data provided for each city type. These are the information that can be extracted from the above graphs
+This was a very in-depth analysis of the data provided for each city type. This is the information that can be extracted from the above graphs
 
-  - Urban cities uses the app the most and there are more drivers in urban cities. As a result, the majority of PyBer's revenue occurs in urban cities.
-  - On the other hand, the costs for using PyBer is greater among riders in rural cities than urban cities. This could potentially discourage riders from using PyBer given the high average fare per ride.
+  - Urban cities use the app the most and there are more drivers in urban cities. As a result, the majority of PyBer's revenue occurs in urban cities.
+  - On the other hand, the costs for using PyBer are greater among riders in rural cities than in urban cities. This could potentially discourage riders from using PyBer given the high average fare per ride.
   - Drivers in rural cities are earning more than drivers in urban cities. This could potentially discourage drivers from working with PyBer given the low average fare per driver.
