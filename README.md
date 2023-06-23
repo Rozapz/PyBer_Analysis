@@ -1,12 +1,12 @@
 # PyBer Analysis
-This is an analysis for a  ride sharing app to explore rideshare data and to help improve access to rideshare services and find a better priceing. We will use visualisation and Matplotlib liberary to better undrestand the data and convey the information.
+This is an analysis of a  ride-sharing app to explore rideshare data and to help improve access to rideshare services and find better pricing. We will use visualization and Matplotlib library to better understand the data and convey the information.
 ## Overview of the analysis:
-The data provides information for rides in each city. The ride information includes fare and date. Other information that are provided are type of the city and number of drivers that work in that city.
-The first analysis to perform is to find number of rides in each type of city. The type of city can be Rural, Suburban or Urban. There were 1,625 rides in urban cities, 625 rides in suburban cities, and 125 rides in rural cities. Putting these data in a pie chart will results in:
+The data provides information for rides in each city. The ride information includes fare and date. Other information that is provided are type of the city and number of drivers that work in that city.
+The first analysis to perform is to find the number of rides in each type of city. The type of city can be Rural, Suburban, or Urban. There were 1,625 rides in urban cities, 625 rides in suburban cities, and 125 rides in rural cities. Putting these data in a pie chart will result in:
 
-![Pie chart for number of rides for each City type](analysis/Fig6.png)
+![Pie chart for the number of rides for each City type](analysis/Fig6.png)
 
-The next study is performed on number of drivers for each city type. There were 2,405 driver for urban cities, 490 driver for suburban cities, and 78 driver for rural cities. Putting these data in a pie chart will results in:
+The next study is performed on the number of drivers for each city type. There were 2,405 drivers for urban cities, 490 drivers for suburban cities, and 78 drivers for rural cities. Putting these data in a pie chart will results in:
 
 ![Pie chart for number of drivers for each City type](analysis/Fig7.png)
 
