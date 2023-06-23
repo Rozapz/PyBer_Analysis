@@ -6,13 +6,13 @@ The first analysis to perform is to find the number of rides in each type of cit
 
 ![Pie chart for the number of rides for each City type](analysis/Fig6.png)
 
-The next study is performed on the number of drivers for each city type. There were 2,405 drivers for urban cities, 490 drivers for suburban cities, and 78 drivers for rural cities. Putting these data in a pie chart will results in:
+The next study is performed on the number of drivers for each city type. There were 2,405 drivers for urban cities, 490 drivers for suburban cities, and 78 drivers for rural cities. Putting these data in a pie chart will result in:
 
-![Pie chart for number of drivers for each City type](analysis/Fig7.png)
+![Pie chart for the number of drivers for each City type](analysis/Fig7.png)
 
-Next analysis is to find the total amount of fare charged for each city type. There were an income of $39854.38 for urban cities, $19356.33 for suburban cities, and 4327.93 for rural cities.Putting these data in a pie chart will results in:
+The next analysis is to find the total amount of fare charged for each city type. There was an income of $39854.38 for urban cities, $19356.33 for suburban cities, and $ 4327.93 for rural cities. Putting these data in a pie chart will result in:
 
-![Pie chart for total amount of fare for each City type](analysis/Fig5.png)
+![Pie chart for the total amount of fare for each City type](analysis/Fig5.png)
 
 Using these data, average fare per ride and average fare per driver can be calculated. These results are shown in the following table:
 
