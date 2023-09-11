@@ -2,7 +2,7 @@
 This is an analysis of a  ride-sharing app to explore rideshare data and to help improve access to rideshare services and find better pricing. We will use visualization and Matplotlib library to better understand the data and convey the information.
 ## Overview of the analysis:
 The data provides information for rides in each city. The ride information includes fare and date. Other information that is provided are type of the city and number of drivers that work in that city.
-The first analysis to perform is to find the number of rides in each type of city. The type of city can be Rural, Suburban, or Urban. There were 1,625 rides in urban cities, 625 rides in suburban cities, and 125 rides in rural cities. Putting these data in a pie chart will result in:
+The first analysis to perform is to find the number of rides in each type of city. The type of city can be Rural, Suburban, or Urban. There were 1,625 rides in urban cities, 625 in suburban cities, and 125 in rural cities. Putting these data in a pie chart will result in:
 
 ![Pie chart for the number of rides for each City type](analysis/Fig6.png)
 
@@ -19,7 +19,7 @@ Using these data, the average fare per ride and average fare per driver can be c
 
 ![Summary](analysis/summary_data.PNG)
 
-The next step is to get deeper into the data and find the total fare by city type for specific date ranges, Jan 2019 to March 2019, and plot this information in a weekly format. To show this data, first, we need to confine our table to these specific dates and then pivot our table to get information for each city type. The last step is to resample it using the weekly format and plot it. This plot is shown in the following figure:
+The next step is to get deeper into the data and find the total fare by city type for specific date ranges, January 2019 to March 2019, and plot this information in a weekly format. To show this data, first, we need to confine our table to these specific dates and then pivot our table to get information for each city type. The last step is to resample it using the weekly format and plot it. This plot is shown in the following figure:
 
 ![Summary](analysis/PyBer_fare_summary.png)
 
